@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning CS50x
 - 💞️ I’m looking to collaborate on all related projects
 - 📫 How to reach me shaunfr777@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: He eats humble pie
 - ⚡ Fun fact: Loved electronics from 5 years old
 
 <!---
