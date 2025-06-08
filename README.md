@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Shaun Fourie
 
 <!--
 **ShaunF777/ShaunF777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on an interactive timing game for restaurants, using an ESP, 4x 7segment screen and button    
+- 🌱 I’m currently learning Django
+- 👯 I’m looking to collaborate on open-source projects
+- 💬 Ask me about industrial product developement on IFM or Murphy products
