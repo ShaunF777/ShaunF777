@@ -14,7 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on an interactive timing game for restaurants, using an ESP, 4x 7segment screen and button    
-- 🌱 I’m currently learning Django
+- 🔭 I’m currently working on a 4 product dispense control & cloud logging system that has a 7" touch HMI. With the following functionality:
+  - controls 4 valves
+  - monitors 4 flow meters
+  - has Rfid attendant authentication
+  - mine fleet selection database 
+- 🌱 I’m also learning Django
 - 👯 I’m looking to collaborate on open-source projects
+- 🤔 I’m an aspiring web developer
 - 💬 Ask me about industrial product developement on IFM or Murphy products
